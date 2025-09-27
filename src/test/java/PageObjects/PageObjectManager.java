@@ -28,6 +28,8 @@ public class PageObjectManager
 		offers = new OffersPage_PageObject(driver);
 		
 		return offers;
+		
+		//master = AB
 	}
 
 }
